@@ -1,4 +1,6 @@
 # restaurant-management-system-Pratul-Anand
+DBMS University project by Pratul Anand RA1911027010032 and Sagar Sharda RA1911027010031
+
 Simple restaurant management system application built using JavaFX and SQLite.
 
 Features
